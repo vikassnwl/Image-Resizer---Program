@@ -1,5 +1,5 @@
 # Image-Resizer---Program
-[![scaled.jpg](https://i.postimg.cc/g0bN9cF2/scaled.jpg)](https://postimg.cc/JsKbZLzf)
+[![Screenshot-from-2020-09-09-20-49-25.png](https://i.postimg.cc/X7YGXfLM/Screenshot-from-2020-09-09-20-49-25.png)](https://postimg.cc/3WzJcDz9)
 
 Resizes images by selecting an image from local storage and specifying new dimensions in pixels.
 
