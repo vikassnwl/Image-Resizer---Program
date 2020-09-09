@@ -6,7 +6,6 @@ Resizes images by selecting an image from local storage and specifying new dimen
 Also converts images based on extension specified in output file's name.
 ## requiremets
 ## TK
-- sudo apt-get install python3-tk
+<pre>sudo apt-get install python3-tk</pre>
 ## Pillow==7.2.0
-- pip install pillow
-![](images/ship.bmp)
+<pre>pip install pillow</pre>
