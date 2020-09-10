@@ -7,5 +7,8 @@ Also converts images based on extension specified in output file's name.
 ## requiremets
 ## TK
 <pre>sudo apt-get install python3-tk</pre>
-## Pillow==7.2.0
-<pre>pip install pillow</pre>
+## Pillow
+<pre>pip3 install pillow</pre>
+## How to run this program
+Run ImageResizer.py inside src directory using following command:
+<pre>python3 ImageResizer.py</pre>
