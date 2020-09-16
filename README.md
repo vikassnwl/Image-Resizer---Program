@@ -9,6 +9,8 @@ Also converts images based on extension specified in output file's name.
 <pre>sudo apt-get install python3-tk</pre>
 ## Pillow
 <pre>pip3 install pillow</pre>
+## Other dependencies
+<pre>sudo apt-get install python3-pil python3-pil.imagetk</pre>
 ## How to run this program
 Run ImageResizer.py inside src directory using following command:
 <pre>python3 ImageResizer.py</pre>
